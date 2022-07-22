@@ -1,0 +1,15 @@
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net6.0\ConsoleAppOOP.exe
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net6.0\ConsoleAppOOP.deps.json
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net6.0\ConsoleAppOOP.runtimeconfig.json
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net6.0\ConsoleAppOOP.dll
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net6.0\ConsoleAppOOP.pdb
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.csproj.AssemblyReference.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.AssemblyInfoInputs.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.AssemblyInfo.cs
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.csproj.CoreCompileInputs.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.dll
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\refint\ConsoleAppOOP.dll
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.pdb
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ConsoleAppOOP.genruntimeconfig.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net6.0\ref\ConsoleAppOOP.dll
