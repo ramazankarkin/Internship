@@ -1,0 +1,15 @@
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.csproj.AssemblyReference.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.AssemblyInfoInputs.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.AssemblyInfo.cs
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.csproj.CoreCompileInputs.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\bin\Debug\net6.0\ConsoleAppFirstTutorial.exe
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\bin\Debug\net6.0\ConsoleAppFirstTutorial.deps.json
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\bin\Debug\net6.0\ConsoleAppFirstTutorial.runtimeconfig.json
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\bin\Debug\net6.0\ConsoleAppFirstTutorial.dll
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\bin\Debug\net6.0\ConsoleAppFirstTutorial.pdb
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.dll
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\refint\ConsoleAppFirstTutorial.dll
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.pdb
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ConsoleAppFirstTutorial.genruntimeconfig.cache
+C:\Users\ramazan.karkin\source\repos\ConsoleAppFirstTutorial\ConsoleAppFirstTutorial\obj\Debug\net6.0\ref\ConsoleAppFirstTutorial.dll
